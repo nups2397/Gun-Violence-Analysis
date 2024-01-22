@@ -10,3 +10,16 @@ The initial hypotheses formed during the initial exploratory analysis found that
 The dataset is the Gun Violence Data from 2013-2018, by James Ko via [Kaggle](https://www.kaggle.com/datasets/jameslko/gun-violence-data/data).
 
 The data contains more than 260,000 incidents of gun violence incidents. The dataset contains information regarding each unique incidents' id, the date is occured, geographic location, the number of people involved, killed, and injured, gun information, age groups, genders, sources, and notes. 
+# Tools
+*Python libraries used in this project include:
+
+**pandas
+**NumPy
+**seaborn
+**matplotlib
+**Folium
+**scikit-learn
+
+*Scripts were created in Jupyter.
+
+*The final presentation was created in Tableau and can be viewed [here](https://public.tableau.com/app/profile/nupur.parikh/viz/6_7GunViolence/Story?publish=yes}.
