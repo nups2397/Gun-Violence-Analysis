@@ -25,7 +25,6 @@ The data contains more than 260,000 incidents of gun violence incidents. The dat
 * The final presentation was created in Tableau and can be viewed [here](https://public.tableau.com/app/profile/nupur.parikh/viz/6_7GunViolence/Story?publish=yes).
 # Folder Structure
 * 01 Project Management: Contains the project brief, a document containing an overview of the CareerFoundry course and project.
-* 02 Data: Contains the original datasets, versions I cleaned, and subsets data used in this project.
 * 03 Scripts: A folder with all of the Jupyter scripts created for analysis and visualizations.
 * 04 Analysis: This contains the visuals created for the project, as well as data sourcing documentation, full correlation matrixes, and the time analysis data preprocessing.
 
